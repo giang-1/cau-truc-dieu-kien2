@@ -1,0 +1,1 @@
+let initAmount = 1000;
